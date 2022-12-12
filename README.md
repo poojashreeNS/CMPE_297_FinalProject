@@ -41,3 +41,12 @@ please create a new conda environment and activate it
 
 # Demo
 Access the Application [here](https://tmukka-test.hf.space/)
+
+# Team Contribution
+Training Encoder (Vision Transformer) & Decoder (RoBERTa) - Priyanka Math and Poojashree NS
+
+Traing Vision Encoder and Decoder - Tharun Mukka & Jithesh KB
+
+Creating MLOps pipeline - Tharun Mukka & Jithesh KB
+
+UI development - Priyanka Math and Poojashree NS

@@ -8,9 +8,9 @@ Presentation video: [link](https://drive.google.com/file/d/128xtnxmLGZYFE5t_nVnI
 https://user-images.githubusercontent.com/89234077/206963311-5c7ecf47-e2fc-4814-a59f-1ecb8019478f.mp4
 
 
-Project Report: [link](https://docs.google.com/document/d/14HnQi5qSnV-YjAoY6Qk3TiIZESUKGKDKOHtSQCRIXYM/edit?usp=sharing)
+Project Report: [link](https://github.com/poojashreeNS/CMPE_297_FinalProject/blob/main/Report.pdf)
 
-Presentation: [link](https://docs.google.com/presentation/d/1ctVsYNwHLXD0U21BGDOUT2j8qbF3L5o3WT918ljt8a4/edit?usp=sharing)
+Presentation: [link](https://github.com/poojashreeNS/CMPE_297_FinalProject/blob/main/Image%20Caption%20Generator.pdf)
 
 Colab: [link](https://github.com/poojashreeNS/CMPE_297_FinalProject/blob/main/Image_Caption_Transfer_Learning_updated.ipynb)
 

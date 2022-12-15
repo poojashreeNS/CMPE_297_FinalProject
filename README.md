@@ -1,5 +1,8 @@
 # CMPE_297_FinalProject
 
+## Description
+Using any natural language words to automatically generate an image's caption or description is a very difficult undertaking. The goal of our project is to put into practice an image caption generator that responds to user input to produce captions for a picture. To translate the comprehension of the image into words in the appropriate sequence, it needs both computer vision techniques to comprehend the image's content and a language model from the field of natural language processing. Due to the mutual exclusivity of images and text sequences, this job requires the use of two interconnected models, one of which is dedicated to image encoding and the other to text decoding. As part of this project, first a language model named Roberta will be trained and fine tuned on captions and then a captioning model will be initialized and trained using Vision Encoder Decoder module of hugging face library.
+
 All the model artifacts and datasets are available in this drive [link](https://drive.google.com/drive/folders/1sEPuz6B-4aWoA1gmQQQ2pgalU3pvx8Nz?usp=sharing)
 
 Presentation video: [link](https://drive.google.com/file/d/128xtnxmLGZYFE5t_nVnItm9T_cvOYDC4/view?usp=sharing)

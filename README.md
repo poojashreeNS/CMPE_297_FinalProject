@@ -44,6 +44,22 @@ please create a new conda environment and activate it
 # Demo
 Access the Application [here](https://tmukka-test.hf.space/)
 
+# Build & Deploy Steps
+1.	Read more about [DagsHub](https://dagshub.com/docs/)
+
+### DagsHub Instructions
+1. Press the green ‘+ Create’ button on the top right and click ‘Connect A Repo’
+2. Click on the GitHub connect button and authorize in GitHub
+3. Choose to either give access to all your repositories or specific ones you want to connect
+4. Click the repository you want to connect on DagsHub and click Connect Repository
+
+### MLflow
+1. Select the best performing model
+
+### Deployment on Huggingface Space
+1. Create a Streamlit SDK Space on Huggingface Space
+2. Upload all the project files to deploy the application on Huggingface Space
+
 # Team Contribution
 Training Encoder (Vision Transformer) & Decoder (RoBERTa) - Priyanka Math and Poojashree NS
 

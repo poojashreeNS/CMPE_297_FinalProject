@@ -10,6 +10,8 @@ https://user-images.githubusercontent.com/89234077/206963311-5c7ecf47-e2fc-4814-
 
 Project Report: [link](https://github.com/poojashreeNS/CMPE_297_FinalProject/blob/main/Report.pdf)
 
+MLOps Doc: [link](https://github.com/poojashreeNS/CMPE_297_FinalProject/blob/main/MLOps-Doc.pdf)
+
 Presentation: [link](https://github.com/poojashreeNS/CMPE_297_FinalProject/blob/main/Image%20Caption%20Generator.pdf)
 
 Colab: [link](https://github.com/poojashreeNS/CMPE_297_FinalProject/blob/main/Image_Caption_Transfer_Learning_updated.ipynb)

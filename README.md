@@ -17,7 +17,7 @@ MLOps Doc: [link](https://github.com/poojashreeNS/CMPE_297_FinalProject/blob/mai
 
 Presentation: [link](https://github.com/poojashreeNS/CMPE_297_FinalProject/blob/main/Image%20Caption%20Generator.pdf)
 
-Colab: [link](https://github.com/poojashreeNS/CMPE_297_FinalProject/blob/main/Image_Caption_Transfer_Learning_updated.ipynb)
+Colab: [link](https://colab.research.google.com/github/poojashreeNS/CMPE_297_FinalProject/blob/main/New_version_Image_Caption_Transfer_Learning_updated.ipynb?authuser=1)
 
 # Running the Streamlit application in local
 please create a new conda environment and activate it
